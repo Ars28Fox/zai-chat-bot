@@ -1,0 +1,5 @@
+{
+  "name": "birthday-bot",
+  "type": "module",
+  "packageManager": "pnpm@latest"
+}
