@@ -1,7 +1,7 @@
 export const birthdays = [
     {
         name: "ДИМООООООООН!!!!",
-        telegramId: 1206109138,
+        telegramId: 442858590,
         date: "04-25",
         message: `С днём рождения! 🎉🥳🎂
 
