@@ -2,7 +2,7 @@ name: zai-chat-bot
 
 on:
   schedule:
-    - cron: "45 8 * * *" # 11:10 МСК
+    - cron: "55 8 * * *" # 11:10 МСК
   workflow_dispatch:
 
 jobs:
